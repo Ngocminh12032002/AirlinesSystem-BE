@@ -1640,11 +1640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Downloads\\ARS_Aptech\\AppBooking\\AppBooking\\AppBooking.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Downloads\\AirlinesSystem-BE\\AppBooking\\AppBooking.csproj",
       "projectName": "AppBooking",
-      "projectPath": "C:\\Users\\Asus\\Downloads\\ARS_Aptech\\AppBooking\\AppBooking\\AppBooking.csproj",
+      "projectPath": "C:\\Users\\Asus\\Downloads\\AirlinesSystem-BE\\AppBooking\\AppBooking.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Downloads\\ARS_Aptech\\AppBooking\\AppBooking\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Downloads\\AirlinesSystem-BE\\AppBooking\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
